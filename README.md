@@ -1,4 +1,4 @@
-# mkdocs-aldoc
+# mkdocs-al
 
 MkDocs plugin for AL (Microsoft Dynamics 365 Business Central) documentation
 
